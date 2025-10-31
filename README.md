@@ -103,8 +103,12 @@ Durante o processo, capture prints e salve na pasta /images, como:
 - Security Group com regras aplicadas.
 
 ### 📸 Estrutura do Repositório
+
+```bash
 📁 dio-desafio-cloudformation
  ┗ 📄 README.md
+
+```
 
 ### 💡 Insights e Aprendizados
 
