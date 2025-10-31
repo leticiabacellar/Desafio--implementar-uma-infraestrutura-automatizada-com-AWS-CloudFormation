@@ -72,7 +72,7 @@ Resources:
           Value: EC2-DIO-Larissa
 ```
 
-##⚠️ Atenção:
+⚠️ Atenção:
 Substitua nome-da-sua-chave-aws pelo nome do par de chaves (Key Pair) que você já criou na sua conta AWS.
 A AMI usada (ami-0c55b159cbfafe1f0) é válida para a região us-east-1.
 
